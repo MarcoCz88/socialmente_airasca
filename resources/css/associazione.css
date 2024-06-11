@@ -1,0 +1,24 @@
+.associazione{
+    margin-top: -200px;
+    color: green;
+    
+}
+@media (min-width: 992px) {
+    .associazione {
+        margin-top: -150px;
+          
+      }
+  }
+.imgLogoCustom{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.assTextCustom{
+    color: green;
+    text-shadow: 3px 0 #070707dd, 0 2px #060606dd, 2px 0 #070707dd, 0 -2px #020100dd;
+}
+.assTextCustom2{
+    font-size: 40px;
+    color: black;
+}

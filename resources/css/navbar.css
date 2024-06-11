@@ -1,0 +1,69 @@
+
+  .logoCustom{
+    height: 80px;
+    width: auto;
+    border-radius: 50%;
+ }
+ .navbarCustom{
+  height: 100px;
+  width: 100%;
+  background-color:rgb(255, 255, 255);
+}
+.text-custom{
+  color: rgb(16, 129, 36);
+  text-shadow: 1px 0 #66f247dd, 0 1px #66f247dd, 1px 0 #66f247dd, 0 -1px #66f247dd;
+}
+.text-custom:hover{
+  color: rgb(20, 92, 33);
+  text-shadow: 3px 0 #070707dd, 0 2px #060606dd, 2px 0 #070707dd, 0 -2px #020100dd;
+}
+.btnCustom{
+  background-image: asset('img/OIP.jpeg');
+  width: 55px;
+  font-size: 28px;
+
+} 
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
+  .colorTextHead{
+    color: green;
+    text-shadow: 1px 0 #66f247dd, 0 2px #66f247dd, 2px 0 #66f247dd, 0 -2px #66f247dd;
+    font-size: 55px;
+      margin-top: 320px;
+  }
+  body{
+    font-size: 19px;
+  }
+  h1{
+      font-size: 55px;
+      margin-top: 220px;
+  }
+  @media (min-width: 992px) {
+  h1 {
+      font-size: 90px;
+      margin-top: 200px;
+        
+    }
+}
+
+
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      font-family: Pacifico;
+      width: auto;
+      }
+  
+  
+  .home {
+    background: url('../../public/img/socialmente_masthead.jpg') no-repeat center center fixed;
+   background-size: cover;
+    height:100%;
+    width: auto;
+    padding-top: 60px;
+  }
+  
+  
